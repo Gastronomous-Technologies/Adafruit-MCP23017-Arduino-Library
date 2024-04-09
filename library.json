@@ -1,0 +1,11 @@
+{
+    "name": "Adafruit MCP23017 Arduino Library",
+    "version": "2.3.2",
+    "description": "Arduino Library for MCP23008, MCP23S08, MCP23017, and MCP23S17 I2C and SPI GPIO port expanders",
+    "frameworks": [
+        "arduino"
+    ],
+    "dependencies": {
+        "Adafruit BusIO": "https://github.com/Gastronomous-Technologies/Adafruit_BusIO.git" 
+    }
+}
